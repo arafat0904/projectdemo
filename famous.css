@@ -1,0 +1,124 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background-color:#ccffff;
+	font-family: 'Montserrat', sans-serif;
+}
+.sa{
+	max-width:950px;
+	background-color:#800040;
+	margin:0 auto;
+	padding:20px;
+}
+.q{
+	width:100px;
+	height:120px;
+	border:3px solid white;
+	border-radius:50%;
+	float:left;
+}
+.w{
+	float:left;
+	padding:30px;
+}
+h1,h2,h3,h4,h5,h6{
+	color:#ffff66;
+}
+.e{
+	float:right;
+	padding:20px;	
+}
+.e a{
+	text-decoration:none;
+	color:#4dffff;
+	font-weight:bold;
+}
+.e b{
+	color:#cc66ff;
+	font-weight:bold;
+	text-decoration:underline;
+}
+.e a:hover{
+	text-decoration:underline;
+	color:tomato;
+}
+.qw{
+	clear:both;
+}
+hr{
+	border:solid #ccffcc 3px;
+	width:100%;
+	margin:20px auto;
+	border-bottom:none;
+}
+#eeee{
+	margin:30px;
+}
+.po{
+	width:40%;
+	float:left;
+}
+.poi{
+	color:#80ff80;
+	width:50%;
+	float:right;
+	margin:15px;
+	text-transform:capitalize;
+}
+.audori{
+	border:solid #ccffcc 1px; 
+	border-bottom:none;
+	width:100%;
+	margin:20px auto;
+}
+.oonana{
+	float:left;
+	width:40%;
+}
+.fofo{
+	float:right;
+	width:50%;
+	margin:15px;
+}
+.gg{
+	color:#80ff80;
+	list-style-type:square;
+	text-transform:capitalize;
+}
+.aaa{
+	width:40%;
+	float:left;
+}
+.ccc{
+	color:#80ff80;
+	float:right;
+	width:50%;
+	margin:15px;
+	text-transform:capitalize;
+}
+.lopa{
+	width:40%;
+	float:left;
+}
+.sanu{
+	float:right;
+	color:#80ff80;
+	width:50%;
+	margin:15px;
+}
+.mim{
+	background-color:#33001a;
+	text-align:center;
+	padding:10px;
+}
+.mim a{
+	color:#66ff66;
+	text-decoration:none;
+	margin:20px;
+}
+.mim p{
+	color:#66ff66;
+	margin-top:20px;
+}
